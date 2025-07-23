@@ -106,7 +106,7 @@ Delete Drink: Click the "Delete" button on a drink card. A confirmation dialog w
 
 
 Contributors
-1. WOLA AFOLABI OLUWADARASIMI ISAAC - APP.PY , DATABASE.DB AND README 
+1. WOLA AFOLABI OLUWADARASIMI ISAAC - app.py , database.db AND README 
 2. TOGBE GBENGA RIGHTEOUSNESS - templates/index.html
 3. DAVID EDOSA - static/Js/script.js
 4. DAVID AWUNOR - schema.sql
